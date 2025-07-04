@@ -3,7 +3,7 @@
 
 ## 🚀 Raw Optimism Meets Emo Energy
 
-Welcome to my corner of the web! I'm a hyperactive, raw, and optimistic soul with a dash of emo, currently studying in 12th grade at DBHSS, Goa. My ambition? To become a Software/AI Engineer by pursuing a BCA (Hons.) in AI/ML. 
+Welcome to my corner of the web! I'm a hyperactive, raw, and optimistic soul with a dash of emo, currently studying in 12th grade at DBHSS, Goa. My ambition? To become a Software/AI Engineer by pur[...]
 
 ### 🎓 The Journey So Far
 - **Top performer** in Computer Science & Web Development at school.
