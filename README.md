@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Sergio Fernandes!
-![Sergio Fernandes](./Sergio Fernandes.jpg)
+![Sergio Fernandes](Sergio_Fernandes.jpg)
 
 ## 🚀 Raw Optimism Meets Emo Energy
 
